@@ -13,7 +13,7 @@
 "rules": {
   "max-len": ["error", {"code": 100}],
   "prefer-promise-reject-errors": ["off"],
-  "react/jsx-filename-extension": ["on"],
+  "react/jsx-filename-extension": ["error"],
   "react/prop-types": ["warn"],
   "no-return-assign": ["off"]
 }
