@@ -6,7 +6,6 @@ In the project directory, you can run:
 
 Runs Eslint in the src dir.\
 No return means you're code is ok, in any other case returns Eslintwarning and errors
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm start`
 
